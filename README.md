@@ -6,9 +6,13 @@
 
 3-Selecione o botão “Criar” para abrir o menu de Banco de Dados SQL.
 
+![botão de criar banco de dados no azure](images/banco-de-dados-azure-1.png)
+
 4-Na guia “Básico” selecione uma assinatura.
 
 5-Também escolha um grupo de recursos.
+
+![configuração do banco de dados](images/banco-de-dados-azure-2.png)
 
 6-Preencha o nome do banco de dados.
 
@@ -17,6 +21,8 @@
 8-Deixe a opção pool elástico SQL como “não” se deseja criar um banco de dados independente.
 
 9-Escolha entre a opção de ambiente de carga de “desenvolvimento” ou “produção”.
+
+![configuração do banco de dados](images/banco-de-dados-azure-3.png)
 
 10-Defina a opção de redundância do armazenamento de backup entre “redundância local”, “redundância de zona” e “redundância geográfica”. Lembre-se que isso afetará o SLA.
 
