@@ -4,7 +4,7 @@
 
 2-Busque pelo serviço nomeado de “Banco de Dados SQL” que pode ser encontrado na página inicial ou no painel de serviços.
 
-3-Selecione o botão “Criar” para abrir o menu de criação Banco de Dados SQL.
+3-Selecione o botão “Criar” para abrir o menu de criação de Banco de Dados SQL.
 
 ![botão de criar banco de dados no azure](images/banco-de-dados-azure-1.png)
 
